@@ -38,7 +38,7 @@
     }
   },
   "environment": {
-    "uilayout": "editor-terminal-split"
+    "uilayout": "terminal"
   },
   "backend": {
     "imageid": "ubuntu"
