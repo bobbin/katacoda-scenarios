@@ -1,8 +1,8 @@
 {
-  "title": "Introduction to Docker",
-  "description": "Working with Docker interactively",
+  "title": "Docker Welcome",
+  "description": "Docker 101 - Introduction Overview for Beginners",
   "difficulty": "Beginner",
-  "time": "60 minutes",
+  "time": "45 minutes",
   "details": {
     "steps": [
       {
