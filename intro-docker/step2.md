@@ -35,7 +35,7 @@ On the host :
 
 
 Let's start our first container :
-- `docker container run -it apptiva/training-centos:latest`{{execute T1}}
+- `docker container run -it bobbin28/docker-training:latest`{{execute T1}}
 
 
 Now we are in the container, let's check OS & hostname) :
@@ -49,7 +49,7 @@ Install wget package :
 
 Exit the container and launch again :
 - `exit`{{execute T1}}
-- `docker container run -it apptiva/training-centos:latest`{{execute T1}}
+- `docker container run -it bobbin28/docker-training:latest`{{execute T1}}
 - `wget https://www.google.fr`{{execute T1}}
 
 > Where is wget ?
