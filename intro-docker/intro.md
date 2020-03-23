@@ -1,4 +1,4 @@
-In this first scenario, you'll take the role of Jane, a developer who needs to deploy a new Key-Value Store for an application she's working with. After discussions, it's been decided to use Redis, a popular KV Store.
+In this first scenario, you'll take the role of Jorge, a developer who needs to deploy a new Key-Value Store for an application she's working with. After discussions, it's been decided to use Redis, a popular KV Store.
 
 Jane is unfamiliar with how Redis is deployed but has heard Docker makes it straightforward to deploy services into development and production.
 
